@@ -1,6 +1,6 @@
 <center>
 
-**Refugee Analysis**
+**Game Reviews**
 <br>
 This is analysis of game user and critic scores amongst popular game review websites.
 <br>
